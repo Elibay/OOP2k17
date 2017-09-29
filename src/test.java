@@ -1,9 +1,10 @@
 
-public class Main {
+public class test {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		System.out.print("Hello World");
+		Cat c = new Cat("Daryia", "mya");
+		System.out.println(c);
+	
 	}
-
 }
